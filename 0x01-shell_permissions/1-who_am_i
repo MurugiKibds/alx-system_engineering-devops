@@ -1,2 +1,2 @@
-#!/bin/ba
+#!/bin/bash
 whoami : Print effective user id
